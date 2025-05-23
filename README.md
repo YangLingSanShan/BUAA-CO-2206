@@ -21,3 +21,5 @@ If you are a sophomore in BUAA especially in 6, what I wanna convey is just beli
 Don't be afraid of failing a certain exam!
 
 Wish you good luck!
+
+北航计算机组成P4-P7 Verilog源码
